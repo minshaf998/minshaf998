@@ -16,12 +16,12 @@
 
 
 ### Skills : <br/>
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react)
