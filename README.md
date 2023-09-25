@@ -16,12 +16,17 @@
 
 
 ### Skills : <br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=gradle)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
+![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=google-cloud)
