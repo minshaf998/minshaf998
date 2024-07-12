@@ -12,7 +12,7 @@
 ⚡ Final Year Undergraduate at [SLIIT](https://www.sliit.lk) <br/>
 ⚡ Software Engineering Intern at [Virtusa](https://www.virtusa.com/) <br/>
 ⚡ President of [SLIIT FOSS Community](https://github.com/sliit-foss) <br/>
-⚡ Full-Stack Developer <br/> -->
+⚡ Full-Stack Developer <br/> 
 
 
 ### Skills : <br/>
@@ -30,3 +30,5 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=google-cloud)
+
+-->
